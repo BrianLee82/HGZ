@@ -1,0 +1,7 @@
+E:\Brian\BRIAN\CPrint\trunk\CPrint\bin\Release\CPrint.exe
+E:\Brian\BRIAN\CPrint\trunk\CPrint\bin\Release\CPrint.pdb
+E:\Brian\BRIAN\CPrint\trunk\CPrint\obj\Release\CPrint.Form1.resources
+E:\Brian\BRIAN\CPrint\trunk\CPrint\obj\Release\CPrint.Properties.Resources.resources
+E:\Brian\BRIAN\CPrint\trunk\CPrint\obj\Release\CPrint.csproj.GenerateResource.Cache
+E:\Brian\BRIAN\CPrint\trunk\CPrint\obj\Release\CPrint.exe
+E:\Brian\BRIAN\CPrint\trunk\CPrint\obj\Release\CPrint.pdb
